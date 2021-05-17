@@ -7,7 +7,3 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ``` shell
 git clone https://github.com/eayanoglu15/kodluyoruzilkrepo.git
 ```
-
-## License
-https://choosealicense.com/licenses/mit/
-
